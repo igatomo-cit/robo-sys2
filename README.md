@@ -1,5 +1,5 @@
 ##ロボットシステム学2016年度課題2、ROS
-2
+
 RaspberryPiでROSをインストールしてnodeを自作した。
 ##仕様
 turtlesimのteleop_turtle_keyから矢印キーの入力を自作したnode、RaspberryPIに送り駆動部のステップモータに必要なステップ数に変換。
